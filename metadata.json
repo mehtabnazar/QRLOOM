@@ -1,0 +1,6 @@
+{
+  "name": "QR LOOM",
+  "description": "The ultimate free, unlimited, and ad-free QR Code Generator SaaS with built-in AI-powered PDF and document tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
